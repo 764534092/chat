@@ -1,4 +1,4 @@
-# Wechat
+# chat 使用netty-socketio
 ## 仿微信的私聊和群聊
 <p align="center">
   <img src="image/1.JPG" width="80%">

@@ -1,9 +1,8 @@
 # Wechat
 ## 仿微信的私聊和群聊
 <p align="center">
-  <img src="images/1.jpg" width="80%">
-  <img src="images/2.jpg" width="80%">
-  <img src="images/3.jpg" width="80%">
+  <img src="images/1.jpeg" width="80%">
+  <img src="images/2.jpeg" width="80%">
 </p>
 ---
 ### 使用方式
